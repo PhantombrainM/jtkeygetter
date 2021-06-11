@@ -17,7 +17,7 @@ set -u
 ######################################################################
 
 JTKEYDIR="/media/fat/JTKEY"
-JTKEYURL="https://archive.org/download/jtbetakey/jtkey.txt"
+JTKEYURL="https://archive.org/download/jtbetakey/beta.zip"
 INSTALL="false"
 INIFILE="$(pwd)/jtkeygetter.ini"
 
